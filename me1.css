@@ -1075,6 +1075,13 @@ body.dark .header {
 
 .contact-item a {
     font-size: 13px;
+     color: #5676d7;
+    text-decoration: none;
+}
+
+.contact-item a:hover {
+    color: var(--primary);
+}
 }
 
 .contact-form {
