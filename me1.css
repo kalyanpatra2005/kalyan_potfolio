@@ -1082,7 +1082,7 @@ body.dark .header {
 .contact-item a:hover {
     color: var(--primary);
 }
-
+ 
 .contact-form {
     padding: 30px;
     border-radius: 18px;
